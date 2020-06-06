@@ -2,6 +2,14 @@
 
 [Kaggle](https://www.kaggle.com/c/titanic/overview)
 
+[EDA](https://www.kaggle.com/ash316/eda-to-prediction-dietanic/notebook)
+
+[EDA](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy/notebook)
+
+[Impute Missing Value](https://jamesrledoux.com/code/imputation)
+
+## Variables
+
 | Variable |                 Definition                 |                      Key                       |
 | -------- | :----------------------------------------: | :--------------------------------------------: |
 | survival |                  Survival                  |                0 = No, 1 = Yes                 |
