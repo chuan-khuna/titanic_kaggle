@@ -2,12 +2,6 @@
 
 [Kaggle](https://www.kaggle.com/c/titanic/overview)
 
-[EDA](https://www.kaggle.com/ash316/eda-to-prediction-dietanic/notebook)
-
-[EDA](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy/notebook)
-
-[Impute Missing Value](https://jamesrledoux.com/code/imputation)
-
 ## Variables
 
 | Variable |                 Definition                 |                      Key                       |
@@ -44,3 +38,15 @@
 - Parent = mother, father
 - Child = daughter, son, stepdaughter, stepson
 - Some children travelled only with a nanny, therefore parch=0 for them.
+
+## Ref
+
+[EDA](https://www.kaggle.com/ash316/eda-to-prediction-dietanic/notebook)
+
+[EDA](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy/notebook)
+
+[ML workflow](https://www.kaggle.com/masumrumi/a-statistical-analysis-ml-workflow-of-titanic/notebook)
+
+[Impute Missing Value](https://jamesrledoux.com/code/imputation)
+
+[t test](https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f)
