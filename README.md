@@ -10,8 +10,7 @@
 | pclass   |                Ticket class                |           1 = 1st, 2 = 2nd, 3 = 3rd            |
 | sex      |                    Sex                     |                                                |
 | Age      |                Age in years                |                                                |
-| sibsp    |                    Sex                     |                                                |
-| sex      | # of siblings / spouses aboard the Titanic |                                                |
+| sibsp    | # of siblings / spouses aboard the Titanic |                                                |
 | parch    | # of parents / children aboard the Titanic |                                                |
 | ticket   |               Ticket number                |                                                |
 | fare     |               Passenger fare               |                                                |
@@ -49,4 +48,4 @@
 
 [Impute Missing Value](https://jamesrledoux.com/code/imputation)
 
-[t test](https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f)
+[t test]()
